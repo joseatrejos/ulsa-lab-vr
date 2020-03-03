@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ulsa-lab-vr/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ulsa-lab-vr/static/js/main.e9f355da.chunk.js",
+    "main.js.map": "/ulsa-lab-vr/static/js/main.e9f355da.chunk.js.map",
+    "runtime-main.js": "/ulsa-lab-vr/static/js/runtime-main.a5effbad.js",
+    "runtime-main.js.map": "/ulsa-lab-vr/static/js/runtime-main.a5effbad.js.map",
+    "static/js/2.980736d3.chunk.js": "/ulsa-lab-vr/static/js/2.980736d3.chunk.js",
+    "static/js/2.980736d3.chunk.js.map": "/ulsa-lab-vr/static/js/2.980736d3.chunk.js.map",
+    "index.html": "/ulsa-lab-vr/index.html",
+    "precache-manifest.8daa812e11af3bb6f3d5de570d7be740.js": "/ulsa-lab-vr/precache-manifest.8daa812e11af3bb6f3d5de570d7be740.js",
+    "service-worker.js": "/ulsa-lab-vr/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ulsa-lab-vr/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.980736d3.chunk.js.LICENSE.txt": "/ulsa-lab-vr/static/js/2.980736d3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ulsa-lab-vr/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5effbad.js",
+    "static/js/2.980736d3.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e9f355da.chunk.js"
+  ]
+}
