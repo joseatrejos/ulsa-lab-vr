@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ulsa-lab-vr/precache-manifest.8daa812e11af3bb6f3d5de570d7be740.js"
+  "/ulsa-lab-vr/precache-manifest.2dc64ce1043142df377bf9f1bbe2434b.js"
 );
 
 self.addEventListener('message', (event) => {
